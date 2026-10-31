@@ -1,0 +1,14 @@
+.DS_Store
+
+# Local installation backups and development scratch files.
+/backups/
+/work/
+/evidence/
+/MOVEMENT-RESULTS.txt
+/VALIDATION.txt
+/VISUAL-RESULTS.txt
+/README.txt
+
+# Duplicate build output and local delivery archives.
+/pet_companion_src.vpk
+/TrailPet-*.zip

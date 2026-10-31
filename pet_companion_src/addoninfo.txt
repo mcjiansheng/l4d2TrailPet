@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+    addonSteamAppID "550"
+    addontitle "Trail Pet - Script Prototype"
+    addonversion "0.2.4"
+    addonauthor "QYF / Codex"
+    addonDescription "Non-solid gnome companion. Local host/server installation required. Chat: !pet help"
+    addonContent_Script "1"
+}
